@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-delivery-promises-react-inertia",
+  "capabilityKey": "planned:ecommerce:delivery-promises",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-ecommerce-delivery-promises-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/ecommerce/nextjs/delivery-promises.md",
+  "presentationPlan": "projects/ecommerce/react/delivery-promises.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
